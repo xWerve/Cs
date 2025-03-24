@@ -1,2 +1,2 @@
-# C-
-Rozwiązane zestawu z laboratoriów
+# C#
+Rozwiązane zestawy z laboratoriów
