@@ -1,0 +1,14 @@
+C:\Users\mkrol\RiderProjects\lab0\lab0\bin\Debug\net7.0\lab0.exe
+C:\Users\mkrol\RiderProjects\lab0\lab0\bin\Debug\net7.0\lab0.deps.json
+C:\Users\mkrol\RiderProjects\lab0\lab0\bin\Debug\net7.0\lab0.runtimeconfig.json
+C:\Users\mkrol\RiderProjects\lab0\lab0\bin\Debug\net7.0\lab0.dll
+C:\Users\mkrol\RiderProjects\lab0\lab0\bin\Debug\net7.0\lab0.pdb
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\lab0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\lab0.AssemblyInfoInputs.cache
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\lab0.AssemblyInfo.cs
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\lab0.csproj.CoreCompileInputs.cache
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\lab0.dll
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\refint\lab0.dll
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\lab0.pdb
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\lab0.genruntimeconfig.cache
+C:\Users\mkrol\RiderProjects\lab0\lab0\obj\Debug\net7.0\ref\lab0.dll
